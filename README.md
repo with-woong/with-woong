@@ -1,19 +1,10 @@
 <div align=right>
-   <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-woong&count_bg=%234778BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Viewers&edge_flat=true"/></a>-->
+   <!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-woong&count_bg=%234778BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Viewers&edge_flat=true"/></a>-->
 </div>
 
 <div align=center>
    
 ![test](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=coldwoong&fontSize=90)
-
-<!--<pre>
-    ____  _______    __    _       ______  ____  _   ________          
-   / __ \/ ____/ |  / /   | |     / / __ \/ __ \/ | / / ____/ __    __ 
-  / / / / __/  | | / /____| | /| / / / / / / / /  |/ / / ____/ /___/ /_
- / /_/ / /___  | |/ /_____/ |/ |/ / /_/ / /_/ / /|  / /_/ /_  __/_  __/
-/_____/_____/  |___/      |__/|__/\____/\____/_/ |_/\____/ /_/   /_/   
-
-</pre>-->
 
 </div>
 
